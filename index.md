@@ -1,12 +1,12 @@
-<h1>TEst Text</h1>
-<h2>zwo</h2>
+#TEst Text
+##zwo
 Text
 TEXT
 
 t e x t
-<h2>ttt</h2>
+##ttt
 
 tt
 
-<h2>fff</h2>
+##fff
 bla
